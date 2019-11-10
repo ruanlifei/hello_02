@@ -1,4 +1,4 @@
-package hello_02;
+package hello_03;
 
 public class hello_02 {
     public static void main(String args[]){
